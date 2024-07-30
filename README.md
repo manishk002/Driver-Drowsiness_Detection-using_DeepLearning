@@ -28,7 +28,7 @@ Driver fatigue is a significant cause of road accidents. This project uses compu
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/Driver-Drowsiness-Detection-using--DL.git
+   git clone https://github.com/manishk002/Driver-Drowsiness-Detection-using--DL.git
    cd Driver-Drowsiness-Detection-using--DL
    ```
 
